@@ -1,0 +1,38 @@
+[22-Aug-2016 09:45:01 America/Chicago] PHP Fatal error:  Call to a member function execute() on boolean in /home/rivkieyc/public_html/pustaka/db_handler.php on line 26
+[22-Aug-2016 09:46:43 America/Chicago] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/rivkieyc/public_html/pustaka/db_handler.php on line 27
+[22-Aug-2016 09:46:43 America/Chicago] PHP Notice:  Undefined variable: planet_icon in /home/rivkieyc/public_html/pustaka/db_handler.php on line 32
+[13-Sep-2016 01:18:14 America/Chicago] PHP Fatal error:  Call to a member function execute() on boolean in /home/rivkieyc/public_html/pustaka/db_handler.php on line 26
+[13-Sep-2016 01:23:16 America/Chicago] PHP Fatal error:  Call to a member function execute() on boolean in /home/rivkieyc/public_html/pustaka/db_handler.php on line 26
+[13-Sep-2016 01:23:32 America/Chicago] PHP Fatal error:  Call to a member function execute() on boolean in /home/rivkieyc/public_html/pustaka/db_handler.php on line 26
+[13-Sep-2016 01:23:46 America/Chicago] PHP Fatal error:  Call to a member function execute() on boolean in /home/rivkieyc/public_html/pustaka/db_handler.php on line 26
+[13-Sep-2016 01:24:45 America/Chicago] PHP Fatal error:  Call to a member function execute() on boolean in /home/rivkieyc/public_html/pustaka/db_handler.php on line 26
+[13-Sep-2016 01:26:14 America/Chicago] PHP Fatal error:  Call to a member function execute() on boolean in /home/rivkieyc/public_html/pustaka/db_handler.php on line 26
+[13-Sep-2016 01:26:30 America/Chicago] PHP Fatal error:  Call to a member function execute() on boolean in /home/rivkieyc/public_html/pustaka/db_handler.php on line 26
+[13-Sep-2016 09:32:53 America/Chicago] PHP Fatal error:  Call to a member function execute() on boolean in /home/rivkieyc/public_html/pustaka/db_handler.php on line 26
+[13-Sep-2016 09:33:07 America/Chicago] PHP Fatal error:  Call to a member function execute() on boolean in /home/rivkieyc/public_html/pustaka/db_handler.php on line 26
+[13-Sep-2016 09:33:23 America/Chicago] PHP Fatal error:  Call to a member function execute() on boolean in /home/rivkieyc/public_html/pustaka/db_handler.php on line 26
+[13-Sep-2016 20:21:51 America/Chicago] PHP Fatal error:  Call to a member function execute() on boolean in /home/rivkieyc/public_html/pustaka/db_handler.php on line 26
+[13-Sep-2016 20:22:03 America/Chicago] PHP Fatal error:  Call to a member function execute() on boolean in /home/rivkieyc/public_html/pustaka/db_handler.php on line 26
+[13-Sep-2016 20:37:33 America/Chicago] PHP Fatal error:  Call to a member function execute() on boolean in /home/rivkieyc/public_html/pustaka/db_handler.php on line 26
+[13-Sep-2016 20:47:27 America/Chicago] PHP Notice:  Undefined variable: pdf_file in /home/rivkieyc/public_html/pustaka/db_handler.php on line 34
+[13-Sep-2016 20:47:41 America/Chicago] PHP Notice:  Undefined variable: pdf_file in /home/rivkieyc/public_html/pustaka/db_handler.php on line 34
+[14-Sep-2016 08:39:08 America/Chicago] PHP Fatal error:  Call to a member function execute() on boolean in /home/rivkieyc/public_html/pustaka/db_handler.php on line 26
+[14-Sep-2016 08:40:36 America/Chicago] PHP Fatal error:  Call to a member function execute() on boolean in /home/rivkieyc/public_html/pustaka/db_handler.php on line 26
+[18-Sep-2016 04:50:27 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'rivkieyc'@'localhost' (using password: YES) in /home/rivkieyc/public_html/pustaka/koneksi.php on line 6
+[18-Sep-2016 04:50:27 America/Chicago] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/rivkieyc/public_html/pustaka/koneksi.php on line 7
+[18-Sep-2016 04:50:27 America/Chicago] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/rivkieyc/public_html/pustaka/koneksi.php on line 7
+[18-Sep-2016 04:50:27 America/Chicago] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/rivkieyc/public_html/pustaka/getPustaka.php on line 4
+[18-Sep-2016 04:50:27 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rivkieyc/public_html/pustaka/getPustaka.php on line 4
+[18-Sep-2016 04:50:27 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rivkieyc/public_html/pustaka/getPustaka.php on line 7
+[18-Sep-2016 04:50:48 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'rivkieyc'@'localhost' (using password: YES) in /home/rivkieyc/public_html/pustaka/koneksi.php on line 6
+[18-Sep-2016 04:50:48 America/Chicago] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/rivkieyc/public_html/pustaka/koneksi.php on line 7
+[18-Sep-2016 04:50:48 America/Chicago] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/rivkieyc/public_html/pustaka/koneksi.php on line 7
+[18-Sep-2016 04:50:48 America/Chicago] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/rivkieyc/public_html/pustaka/getPustaka.php on line 4
+[18-Sep-2016 04:50:48 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rivkieyc/public_html/pustaka/getPustaka.php on line 4
+[18-Sep-2016 04:50:48 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rivkieyc/public_html/pustaka/getPustaka.php on line 7
+[18-Sep-2016 04:55:01 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'rivkieyc'@'localhost' (using password: YES) in /home/rivkieyc/public_html/pustaka/koneksi.php on line 6
+[18-Sep-2016 04:55:01 America/Chicago] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/rivkieyc/public_html/pustaka/koneksi.php on line 7
+[18-Sep-2016 04:55:01 America/Chicago] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/rivkieyc/public_html/pustaka/koneksi.php on line 7
+[18-Sep-2016 04:55:01 America/Chicago] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/rivkieyc/public_html/pustaka/getPustaka.php on line 4
+[18-Sep-2016 04:55:01 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rivkieyc/public_html/pustaka/getPustaka.php on line 4
+[18-Sep-2016 04:55:01 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rivkieyc/public_html/pustaka/getPustaka.php on line 7
